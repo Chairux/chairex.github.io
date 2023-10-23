@@ -11,15 +11,14 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
-  position: relative;
-background: rgb(116,68,121);
-background: linear-gradient(90deg, rgba(116,68,121,1) 1%, rgba(2,0,36,1) 43%, rgba(144,94,48,1) 100%);
+background: rgb(107,83,110);
+background: linear-gradient(90deg, rgba(107,83,110,1) 1%, rgba(2,0,36,1) 50%, rgba(77,58,41,1) 100%);
 }
   body::before {
   content: "";
   position: fixed;
-background: rgb(116,68,121);
-background: linear-gradient(90deg, rgba(116,68,121,1) 1%, rgba(2,0,36,1) 43%, rgba(144,94,48,1) 100%);
+background: rgb(107,83,110);
+background: linear-gradient(90deg, rgba(107,83,110,1) 1%, rgba(2,0,36,1) 50%, rgba(77,58,41,1) 100%);
     left:0;
   right: 0;
   top: 0;
