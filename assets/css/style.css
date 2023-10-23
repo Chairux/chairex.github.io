@@ -12,15 +12,14 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
   position: relative;
-background: rgb(2,0,36);
-background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(132,36,143,1) 50%, rgba(0,212,255,1) 100%);}
-
-body::before {
+background: rgb(116,68,121);
+background: radial-gradient(circle, rgba(116,68,121,1) 0%, rgba(2,0,36,1) 50%, rgba(144,94,48,1) 100%);
+}
+  body::before {
   content: "";
   position: fixed;
-background: rgb(2,0,36);
-background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(132,36,143,1) 50%, rgba(0,212,255,1) 100%);  background-size: cover;
-  left: 0;
+background: rgb(116,68,121);
+background: radial-gradient(circle, rgba(116,68,121,1) 0%, rgba(2,0,36,1) 50%, rgba(144,94,48,1) 100%);  left: 0;
   right: 0;
   top: 0;
   height: 100vh;
