@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://Chairux.github.io/
+> https://chairux.github.io/
 
 :star: Star me on GitHub — it helps!
 
